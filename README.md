@@ -11,4 +11,6 @@ npm install
 ```
 npm start
 ```
+## Hình ảnh chương trình
+<img src="/image_readme/1.PNG">
 ## Goodluck!
